@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ad3b131-c52a-4b33-8808-7e45506eec77" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../BarkingDog" beforeDir="false" afterPath="$PROJECT_DIR$/../BarkingDog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortInt" beforeDir="false" afterPath="$PROJECT_DIR$/../ByteShortInt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiagonalStar" beforeDir="false" afterPath="$PROJECT_DIR$/../DiagonalStar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumChecker" beforeDir="false" afterPath="$PROJECT_DIR$/../EqualSumChecker" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FactorPrinter" beforeDir="false" afterPath="$PROJECT_DIR$/../FactorPrinter" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLastDigitSum" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstLastDigitSum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlourPacker" beforeDir="false" afterPath="$PROJECT_DIR$/../FlourPacker" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreatestCommonDivisor" beforeDir="false" afterPath="$PROJECT_DIR$/../GreatestCommonDivisor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InputCalculator" beforeDir="false" afterPath="$PROJECT_DIR$/../InputCalculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntEqualityPrinter" beforeDir="false" afterPath="$PROJECT_DIR$/../IntEqualityPrinter" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LargestPrime" beforeDir="false" afterPath="$PROJECT_DIR$/../LargestPrime" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LastDigitChecker" beforeDir="false" afterPath="$PROJECT_DIR$/../LastDigitChecker" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter" beforeDir="false" afterPath="$PROJECT_DIR$/../MegaBytesConverter" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberInWord" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberInWord" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberPalindrome" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberPalindrome" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberToWords" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberToWords" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PaintJob" beforeDir="false" afterPath="$PROJECT_DIR$/../PaintJob" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PerfectNumber" beforeDir="false" afterPath="$PROJECT_DIR$/../PerfectNumber" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat" beforeDir="false" afterPath="$PROJECT_DIR$/../PlayingCat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SharedDigit" beforeDir="false" afterPath="$PROJECT_DIR$/../SharedDigit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SumOddRange" beforeDir="false" afterPath="$PROJECT_DIR$/../SumOddRange" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeenNumberChecker" beforeDir="false" afterPath="$PROJECT_DIR$/../TeenNumberChecker" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charAndBoolean" beforeDir="false" afterPath="$PROJECT_DIR$/../charAndBoolean" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeBlocks" beforeDir="false" afterPath="$PROJECT_DIR$/../codeBlocks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speedConverter" beforeDir="false" afterPath="$PROJECT_DIR$/../speedConverter" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2EzSZXBQ5PiPOXsgSEeSFfTthIb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ad3b131-c52a-4b33-8808-7e45506eec77" name="Changes" comment="" />
+      <created>1663596978193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663596978193</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
