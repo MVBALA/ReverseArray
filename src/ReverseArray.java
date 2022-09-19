@@ -1,2 +1,18 @@
-package PACKAGE_NAME;public class ReverseArray {
-}
+//import java.util.Arrays;
+//
+//   It is Udemy exercise.
+
+// public class ReverseArray {
+//    private static void reverse(int[] array){
+//        System.out.println("Array = "+Arrays.toString(array));
+//       int maxIndex=array.length-1;
+//       int halfIndex=array.length/2;
+//        for(int i=0;i< halfIndex;i++){
+//        int temp=array[i];
+//        array[i]=array[maxIndex-i];
+//        array[maxIndex-i]=temp;
+//        }
+//        System.out.println("Reversed array = "+Arrays.toString(array));
+//
+//    }
+//}
